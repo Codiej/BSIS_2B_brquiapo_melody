@@ -1,0 +1,4 @@
+Clarifications on midterms:
+* excel mockup ng database lahat na po na tables illagay na dun. preparation na po un. 
+* sql - exported thru xampp's phpmyadmin interface ng mysql database. pagkacreate nyo po nung Database sa mysql ieexport nyo po un and un na ung .sql, nag demo po ako nun if need nyo ulit. pahanap na lng sa youtube on how.
+* Need nyo din po iscreenshot ung MySQL database structures at ilagay sa isang Word Document. at lalagyan nyo din ng short description and save nyo as .pdf.
